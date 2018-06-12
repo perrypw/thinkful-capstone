@@ -1,6 +1,6 @@
 # thinkful-capstone
 
-This is the repository for my capstone for the Thinkful Data Science bootcamp, which relates to predictive modeling for TV show cancellation. The notebooks are in linear order and include:
+This is the repository for my capstone for the Thinkful Data Science bootcamp. The project surrounds predictive modeling for TV show cancellation. The notebooks are in linear order and include:
 
 1. Introduction
 2-3. Data Acquisition and Cleaning
